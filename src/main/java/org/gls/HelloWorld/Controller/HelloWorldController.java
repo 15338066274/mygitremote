@@ -3,7 +3,7 @@ package org.gls.HelloWorld.Controller;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
-//456456456 ----  555555555555
+//456
 @Controller
 public class HelloWorldController {
 	
